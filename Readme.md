@@ -4,3 +4,4 @@
 
 * Test Smart commit 
 
+* Added comment

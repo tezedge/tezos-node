@@ -2,3 +2,5 @@
 
 * Test sync from Github to jira 
 
+* Test Smart commit 
+

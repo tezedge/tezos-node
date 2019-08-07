@@ -1,0 +1,1 @@
+* Test Jira integration with Git

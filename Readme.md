@@ -5,3 +5,5 @@
 * Test Smart commit 
 
 * Added comment
+
+* test 
